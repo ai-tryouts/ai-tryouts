@@ -1,4 +1,4 @@
-# AI Learning Journey
+# AI Tryouts
 
 ## Agenda
 
